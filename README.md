@@ -1,4 +1,4 @@
-# 🧭  Viosion Odometry with SuperPoint - DPU Acceleration
+# 🧭  Vision Odometry with SuperPoint - DPU Acceleration
 
 This project demonstrates real-time visual odometry using the **SuperPoint** neural network accelerated on a **DPU** (e.g., on the Kria KV260 platform).
 
